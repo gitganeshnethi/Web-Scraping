@@ -115,7 +115,7 @@ def extract_run(Commentary):
     elif '<b>FOUR</b>' in Commentary:
         return 4
     elif '<b>SIX</b>' in Commentary:
-        return 6
+        return 6 
     elif '5 runs' in Commentary:
         return 5
     elif 'no run' in Commentary:
