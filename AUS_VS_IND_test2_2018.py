@@ -195,3 +195,9 @@ day4_pivot = day4.pivot_table(index='ball',
 #plotting for pivot table
 plt.figure(figsize=(20,7))
 seaborn.heatmap(day4_pivot,cmap='Oranges')
+         
+         
+         
+         
+         
+         
